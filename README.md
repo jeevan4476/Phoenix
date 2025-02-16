@@ -30,9 +30,9 @@ Ensure you have the following installed:
 
 Clone the repository and install dependencies:
 
-sh
+```bash
 pnpm install
-
+```
 
 ### Configuration
 
@@ -47,8 +47,9 @@ PRIVATE_KEY=<your_private_key>
 
 Start the bot with:
 
-sh
+```bash
 pnpm start
+```
 
 
 ## Usage
