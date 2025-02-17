@@ -63,6 +63,12 @@ pnpm start
 
 Pull requests are welcome! Please follow best practices and create an issue before submitting major changes.
 
+##Future work
+Calculate volatility of the market price and implement logic to have dynamic EDGE depending on volatility
+Calculate dynamic bid and ask order quantities (order sizes)
+Calculate and track profitability of the strategy
+Place multiple bid-ask order pairs with different order sizes to experiment with profitability
+Build advanced strategies and experiment with different types of self-trade behaviours
 ## License
 
 MIT License
